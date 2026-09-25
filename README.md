@@ -4,11 +4,11 @@ Starter visual do site narrativo de **Capuz Negro**, construído com Next.js App
 
 ## Rodar localmente
 
-Requer Node.js 20.9+.
+Requer Node.js 20.9+ e [pnpm](https://pnpm.io) 10+ (`corepack enable pnpm`).
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 Abra `http://localhost:3000`.

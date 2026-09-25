@@ -3,6 +3,11 @@
 /.pnp
 .pnp.*
 
+# lockfiles de outros gerenciadores (este projeto usa pnpm)
+package-lock.json
+yarn.lock
+bun.lockb
+
 # next.js
 /.next/
 /out/
